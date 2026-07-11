@@ -1,0 +1,9 @@
+# ══════════════════════════════════════════════════════════
+#  The libraries my apps need.
+#  Streamlit Cloud reads THIS FILE to know what to install.
+#  Missing this file = the #1 reason deployments crash!
+# ══════════════════════════════════════════════════════════
+
+streamlit
+openai
+pandas
